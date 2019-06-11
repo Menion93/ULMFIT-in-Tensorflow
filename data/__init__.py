@@ -1,0 +1,1 @@
+from .fb_embeddings import EmbeddingsLoader
